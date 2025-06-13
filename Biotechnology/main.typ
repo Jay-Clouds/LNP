@@ -153,6 +153,7 @@ Comprehensive validation of the LNP-delivered DEC2 gene therapy requires multi-s
 
 = Expected Results and Discussion
 
+
 == Anticipated Outcomes
 - Successful prime editing of DEC2 in target neurons
 - Reduced DEC2 function leading to increased orexin
