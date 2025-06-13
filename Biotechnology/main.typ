@@ -127,6 +127,20 @@ The core LNP formulation consists of ionizable lipids optimized for CNS delivery
 This approach utilizes high-capacity LNP formulations capable of encapsulating the complete prime editing toolkit (~5.5 kb total RNA) with encapsulation efficiencies >85%, representing significant advantages over dual AAV vector systems that require separate viral particles and complex dosing considerations @zhang_adeno-associated_2019.
 
 == Cell-Type Targeting
+Achieving therapeutic specificity requires precise targeting of orexin-producing neurons within the lateral hypothalamus while minimizing off-target editing in other cell populations.
+
+Primary targeting relies on stereotactic delivery to the lateral hypothalamic area (LHA) and perifornical area (PFA), where orexin neurons are concentrated. Coordinate-guided injection enables precise anatomical targeting while minimizing exposure to other hypothalamic nuclei @bendavid_emerging_2024.
+
+#figure(
+  image("Coronal_Section_Mouse_Orexin.png"),
+  caption: [
+     Schematic drawing of coronal section and sagittal section through rat brain, summarizing the orexin neuronal system @natsuko_role_2013.
+  ],
+)
+
+Molecular targeting specificity is achieved through orexin promoter-driven expression systems incorporated into the prime editing construct design. The employment of truncated orexin/hypocretin promoter sequences that demonstrate selective activity in orexin neurons and maintain compact size compatible with LNP delivery constraints. This promoter-driven approach ensures that prime editing components are preferentially expressed in target cell populations even if LNPs reach off-target tissues @wu_lipid_2025.
+
+Additional specificity is provided through RNA sensor systems that can detect orexin mRNA expression and conditionally activate prime editing only in appropriate cell types. These sensors utilize small regulatory RNAs that recognize endogenous orexin transcripts and trigger prime editing component expression through ribozyme-based switches, providing an additional layer of cell-type specificity.
 
 == Validation Framework
 In vitro editing efficiency assessment
