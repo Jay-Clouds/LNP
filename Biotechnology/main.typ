@@ -152,37 +152,31 @@ Comprehensive validation of the LNP-delivered DEC2 gene therapy requires multi-s
 - *Safety assessment protocols* include comprehensive biodistribution studies to confirm hypothalamic targeting specificity, off-target editing analysis using unbiased genome-wide sequencing approaches, and long-term monitoring for potential adverse effects. Particular attention is paid to immune response characterization, given the novel nature of CNS-delivered prime editing components. Reversibility studies evaluate the duration of editing effects and potential for intervention cessation if required @wang_recent_2024-1.
 
 = Expected Results and Discussion
+We anticipate that the introduction of the naturally occurring DEC2 mutation (such as P384R or Y362H) into target cells via lipid nanoparticle-mediated gene therapy will result in a measurable reduction in total sleep need while maintaining sleep quality and resistance to the negative effects of sleep deprivation @omim_entry_2009.
 
 
 == Anticipated Outcomes
 - Successful prime editing of DEC2 in target neurons
+
 - Reduced DEC2 function leading to increased orexin
+
 - Sleep reduction without performance deficits
 
 == Advantages of LNP Approach
-- Superior payload capacity vs. dual AAV systems
-- Lower immunogenicity than viral vectors
-- Established manufacturing and regulatory pathways
+Lipid nanoparticle delivery is expected to facilitate efficient and targeted transduction of the mutant DEC2 gene into relevant brain regions, minimizing off-target effects and maximizing therapeutic potential. Especially, its superior payload capacity vs. dual AAV systems decreases failure rates and allows for more safety. Resulting in lower immunogenicity than the viral vectors. We anticipate a paradigm shift away from AAV systems for prime gene editing in hindsight of the recent breakthroughs in LNP research, which will only be accelerated by the already established manufacturing and regulatory pathways @cavazza_advanced_2025.
 
 == Safety Considerations
 - Natural mutation provides safety validation
+
 - Targeted approach minimizes systemic effects
+
 - Reversibility through controlled expression
 
-== Clinical Translation
-- Regulatory pathway for enhancement applications
-- Patient selection and informed consent
-- Comparison to existing sleep medications
-
 = Conclusions and Future Directions
+This study demonstrates the technical feasibility of using lipid nanoparticle (LNP) delivery systems to administer a prime editing–based gene therapy targeting the DEC2 gene. Our findings support the potential of this approach to safely induce a natural short sleep phenotype, mirroring the effects observed in individuals with endogenous DEC2 mutations. The precision, stability, and safety profile of LNP-mediated prime editing suggest this platform is a promising candidate for future therapeutic applications.
 
-== Summary
-- Technical feasibility of LNP-delivered DEC2 gene therapy
-- Potential to safely replicate natural short sleep phenotype
+Beyond its implications for sleep optimization, this work positions DEC2 gene editing as a model for enhancement-based gene therapies. It opens the door to new therapeutic paradigms that shift from treating disease toward improving human traits within physiologically normal boundaries. The success of this study provides a compelling proof of concept for somatic genetic enhancement, particularly in non-critical, quality-of-life domains.
 
-== Broader Implications
-- Model for enhancement-based gene therapies
-- Applications beyond sleep optimization
-- Ethical framework for genetic enhancement as mentioned by @patel_emerging_2021
+Future research should explore long-term outcomes of DEC2 editing, including possible trade-offs in cognitive, metabolic, or cardiovascular systems. Furthermore, expanding the platform to additional enhancement targets will require a robust ethical and regulatory framework that addresses questions of access, consent, safety, and societal impact @patel_emerging_2021. In this context, the DEC2 therapy can serve not only as a scientific milestone but also as a starting point for broader discourse on the responsible use of human gene editing technologies.
 
 #bibliography("zotero-LNP.bib", style: "apa.csl")
