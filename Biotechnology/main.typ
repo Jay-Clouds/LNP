@@ -78,58 +78,42 @@ Recent advances in gene editing technologies, particularly prime editing, have m
 #figure(
   image("LNP_Brain_Barrier.jpg"),
   caption: [
-    Specialized LNP coating for increased accumulation at the BBB.
+    Specialized LNP coating for increased accumulation at the blood brain barrier.
   ],
 )
 
 == Objectives
-One of the most direct implications of A-Mail is the solution of the Mars problem. This means that people stuck on Mars can now finally watch football games live, a significant achievement on the grand scale of things. The complex communication interactions arising between Earth, Mars, and the \+
+The development of an LNP-mediated gene therapy approach to replicate the DEC2 Y362H mutation in targeted hypothalamic neurons. Our primary objective is to establish the technical feasibility of using prime editing delivered via engineered lipid nanoparticles to introduce the specific c.1086C>T mutation in orexin-producing neurons of the suprachiasmatic nucleus.
 
 #figure(
-  image("a-mail.png"),
+  image("Targeted_LNP_BBB_Delivery.jpg"),
   caption: [
-    Visualization of the FTL Earth-to-Mars communication capabilities enabled by A-Mail.
+     Illustration of the LNP-mediated gene editing tool delivery @wu_lipid_nodate.
   ],
 )
+
+Secondary objectives include optimizing cell-type specific targeting to minimize off-target effects, characterizing the dose-response relationship between editing efficiency and phenotypic outcomes, and establishing safety parameters through comprehensive preclinical evaluation. The ultimate goal is to provide a foundation for clinical translation that could offer millions of individuals suffering from sleep disorders, chronic fatigue, or simply seeking enhanced cognitive performance, access to the remarkable benefits naturally enjoyed by FNSS individuals.
+
+This approach represents a paradigm shift from traditional pharmacological interventions toward precision genetic therapies that replicate proven-safe natural variants, potentially establishing a new class of enhancement-based therapeutics with broad applications beyond sleep optimization.
 
 = Methods and Approach
-Our concept suggests three ways that A-Mail can be best utilized.
-
-- First is to reduce the probability of the failure of a space mission. This problem, known as the Mars problem, suggests that the high round-trip time required for communication between Mars and Earth inhibits successful human developments on the planet. Thanks to A-Mail's faster-than-light delivery system this problem could be solved once and for all.
-
-- As A-Mails are written using pen and paper, no digital technology is needed for short and long distance communication. This suggests a possibility of reducing the communication monopoly currently held by an entity known as the "internet". Our suggestion of A-Mail being responsible for postal delivery would reduce dependence on online services by delivering the vast majority of mail offline. Space is a place where drastic changes in methods of production and distribution can easily occur.
-
-- Lastly, A-Mail is capable of performing high-level complex calculations. It is this capability that distinguishes A-Mail from traditional space mailers. This is an especially useful capability when planning long-distance space missions.
-
-The delivery speed of an A-Mail can be determined through this simple formula:
-
-$ v(t) = lim_(t -> infinity) integral^infinity c dot sqrt(t^2)  physica.dd("t") $
-
-Building on the strong foundations of A-Mail, we extend our platform to predict problems and apply existing and new best practices to ensure the mail is delivered without any issues. We call this extension AI-Mail. AI-Mail is a new concept designed and delivered by artificially intelligent (AI) agents. The AI-Mail agents are intelligently designed to solve problems at various points in the delivery chain. These problems are related to targeting, delivery delay, tone of delivery, product information, product return, system crash, shipment error and more. AI-Mail provides a one-stop solution for A-Mail's shortcomings.
 
 == Gene Editing Strategy
-A-Mail has been under development four the past ten years and in the process has consolidate different space programmes. Over the course of the last year, our space P.I.s have already found over ten thousand lost letters. These letters had been drifting in space since the stone ages when they were originally mailed. Only now we had the technology to recover them. In this way, A-Mail technology has already proven invaluable to human advancement and research, bringing us closer to our ancestors.
+The therapeutic replication of the DEC2 Y362H mutation requires precision gene editing to introduce the specific c.1086C>T single nucleotide change. Prime editing represents the optimal approach for this application, offering significant advantages over traditional CRISPR-Cas9 systems for single nucleotide substitutions @anzalone_search-and-replace_2019.
 
-== Lipid Nanoparticle Development
-Through A-Mail's _faster-than-light_ technology, for the first time, humans have the capability to rearch far away solar systems to find out whether we are, after all, alone in this universe.
-During our research, we have already established pen pal relations with at least three potential extraterrestrial living forms.
-
-== Cell-Type Targeting
-Our concept suggests three ways that we can target the cell.
-
-- RNA sensor systems for orexin neuron specificity
-
-- Conditional expression to minimize off-target effects
-
-- Targeting hypothalamic suprachiasmatic nucleus
-
+Prime editing utilizes a catalytically impaired Cas9 (H840A nickase) fused to an engineered reverse transcriptase, guided by a prime editing guide RNA (pegRNA) that both specifies the target site and provides the template for the desired edit. For the DEC2 c.1086C>T mutation, special pegRNAs targeting the antisense strand are needed with optimal spacer and RT lengths @bendavid_emerging_2024.
 
 #figure(
-  image("a-mail.png"),
+  image("Encapsulated_transfer_mechanism.png"),
   caption: [
-    Visualization of the FTL Earth-to-Mars communication capabilities enabled by A-Mail.
+     Illustration of cellular uptake and action mechanism of encapsulated PE (mRNA form) by cationic nanoparticles 
   ],
 )
+
+== Lipid Nanoparticle Development
+
+
+== Cell-Type Targeting
 
 == Validation Framework
 In vitro editing efficiency assessment
