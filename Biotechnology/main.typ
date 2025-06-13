@@ -106,12 +106,25 @@ Prime editing utilizes a catalytically impaired Cas9 (H840A nickase) fused to an
 #figure(
   image("Encapsulated_transfer_mechanism.png"),
   caption: [
-     Illustration of cellular uptake and action mechanism of encapsulated PE (mRNA form) by cationic nanoparticles 
+     Illustration of cellular uptake and action mechanism of encapsulated PE (mRNA form) by cationic nanoparticles.
   ],
 )
 
-== Lipid Nanoparticle Development
+The pegRNA design incorporates several optimization strategies: (1) selection of protospacer sequences with minimal off-target homology using established algorithms, (2) RT template optimization to favor the desired C>T substitution over competing indel formation, and (3) prime binding site (PBS) length optimization (10-13 nucleotides) to balance editing efficiency with specificity @liu_enhancing_2021. Additionally, employing prime editing 3.0 (PE3) strategy utilizing paired nicking to further enhance editing precision while maintaining safety profiles suitable for therapeutic applications.
 
+== Lipid Nanoparticle Development
+Effective delivery of prime editing components to hypothalamic neurons requires specialized lipid nanoparticle formulations capable of crossing the blood-brain barrier while maintaining cargo stability and minimizing systemic distribution. Our LNP development strategy builds upon established mRNA delivery platforms while incorporating brain-specific targeting modifications @hou_lipid_2021.
+
+The core LNP formulation consists of ionizable lipids optimized for CNS delivery, including novel brain-penetrating compounds such as 7C1 or ALC-0315 derivatives with enhanced blood-brain barrier permeability. The formulation incorporates helper lipids (DSPC), cholesterol for membrane stability, and PEG-lipids modified with brain-targeting ligands @pardridge_brain_2023. Critical design parameters include particle size optimization (80-120 nm), surface charge neutrality, and incorporation of transferrin receptor-targeting peptides to facilitate transcytosis across the blood-brain barrier.
+
+#figure(
+  image("LNP_Mechanism.png"),
+  caption: [
+     LNP structure, with helper lipids, and PEG-lipids for specialized brain targeting.
+  ],
+)
+
+This approach utilizes high-capacity LNP formulations capable of encapsulating the complete prime editing toolkit (~5.5 kb total RNA) with encapsulation efficiencies >85%, representing significant advantages over dual AAV vector systems that require separate viral particles and complex dosing considerations @zhang_adeno-associated_2019.
 
 == Cell-Type Targeting
 
