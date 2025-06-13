@@ -28,7 +28,7 @@
   ),
   doi: "NOT APPLICABLE",
   abstract: [
-    Recent advances in space-based document processing have enabled faster mail delivery between different planets of a solar system. Given the time it takes for a message to be transmitted from one planet to the next, its estimated that even a one-way trip to a distant destination could take up to one year. During these periods of interplanetary mail delivery there is a slight possibility of mail being lost in transit. This issue is considered so serious that space management employs P.I. agents to track down and retrieve lost mail. We propose A-Mail, a new anti-matter based approach that can ensure that mail loss occurring during interplanetary transit is unobservable and therefore potentially undetectable. Going even further, we extend A-Mail to predict problems and apply existing and new best practices to ensure the mail is delivered without any issues. We call this extension AI-Mail.
+    Recent advancements in gene therapy have enabled precise and targeted interventions for both therapeutic and enhancement purposes. In this study, we present a novel approach to replicating the natural Y362H mutation in the DEC2 gene associated with a natural short sleep phenotype—using prime gene editing delivered via lipid nanoparticles (LNPs). Our strategy offers a safe and efficient method to mimic endogenous gene variants that confer beneficial traits, positioning this as a pioneering model for enhancement-based gene therapies. Through in vivo experimentation and molecular validation, we demonstrate the technical feasibility and biological efficacy of this platform in inducing a shortened sleep duration without detrimental physiological effects.
   ],
 )
 
