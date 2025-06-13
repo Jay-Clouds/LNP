@@ -143,9 +143,13 @@ Molecular targeting specificity is achieved through orexin promoter-driven expre
 Additional specificity is provided through RNA sensor systems that can detect orexin mRNA expression and conditionally activate prime editing only in appropriate cell types. These sensors utilize small regulatory RNAs that recognize endogenous orexin transcripts and trigger prime editing component expression through ribozyme-based switches, providing an additional layer of cell-type specificity.
 
 == Validation Framework
-In vitro editing efficiency assessment
-Animal model studies for safety and efficacy
-Sleep pattern and behavioral endpoints
+Comprehensive validation of the LNP-delivered DEC2 gene therapy requires multi-stage assessment spanning in vitro proof-of-concept through preclinical safety and efficacy evaluation. Our validation framework prioritizes clinically relevant endpoints while maintaining rigorous safety assessment protocols.
+
+- *In vitro validation* begins with immortalized hypothalamic cell lines (GT1-7, mHypoE-N42) to establish baseline prime editing efficiency and optimize delivery parameters. Primary hypothalamic neuron cultures derived from neonatal rodents provide more physiologically relevant models for assessing editing efficiency, cell viability, and functional outcomes including orexin expression levels and electrophysiological activity patterns. Target editing efficiency thresholds of ≥20% are established based on modeling studies suggesting this level is sufficient for phenotypic effects while maintaining safety margins.
+
+- *In vivo studies* utilize established rodent models with comprehensive behavioral and physiological monitoring. Primary endpoints include sleep-wake cycle analysis using EEG/EMG telemetry, activity monitoring, and cognitive performance assessments. Sleep pattern analysis focuses on total sleep time, sleep efficiency, and sleep architecture changes, with particular attention to maintenance of normal circadian rhythms. Secondary endpoints encompass body weight, metabolic parameters, and comprehensive behavioral batteries to assess potential off-target effects @gao_gene_2024.
+
+- *Safety assessment protocols* include comprehensive biodistribution studies to confirm hypothalamic targeting specificity, off-target editing analysis using unbiased genome-wide sequencing approaches, and long-term monitoring for potential adverse effects. Particular attention is paid to immune response characterization, given the novel nature of CNS-delivered prime editing components. Reversibility studies evaluate the duration of editing effects and potential for intervention cessation if required @wang_recent_2024-1.
 
 = Expected Results and Discussion
 
